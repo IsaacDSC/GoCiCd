@@ -1,0 +1,6 @@
+{
+ "appName": "<nameApplication>",
+ "version": "0.0.0.0",
+ "containerName": "<user-docker>/<imageName>",
+ "shTest": "./lib/cli/scripts/tests/execute_tests.sh"
+}
