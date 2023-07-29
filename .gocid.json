@@ -1,0 +1,8 @@
+{
+    "userRegisterContainer": "isaacdsc",
+    "appName": "test-webapp-go",
+    "version": "latest",
+    "containerName": "isaacdsc/balancer_nomad_app:latest",
+    "shTest": "",
+    "hcl":"./scripts/deploy.hcl"
+}
