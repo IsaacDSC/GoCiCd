@@ -1,0 +1,8 @@
+{
+    "userRegisterContainer": "<userDockerHub>",
+    "appName": "<TagAppName>",
+    "version": "latest",
+    "containerName": "<containerName>",
+    "shTest": "",
+    "hcl":"./scripts/deploy.hcl"
+    }
